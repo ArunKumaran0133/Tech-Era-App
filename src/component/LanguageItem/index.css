@@ -1,0 +1,25 @@
+.logo-image {
+  height: 50px;
+  width: 50px;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+  color: #1e293b;
+  margin-left: 15px;
+}
+
+.item-container {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+.link {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
